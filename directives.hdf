@@ -2,7 +2,7 @@
 TimeZone=America/Mexico_City
 ConfigExpirationTime=never
 AvailableKeyboardLayouts=latam|us|es|
-DefaultKeyboardLayout=cn
+DefaultKeyboardLayout=latam
 EventConfig=true
 ContestConfig=true
 
@@ -18,7 +18,7 @@ AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
 Bookmarks={Contest^https://www.omegaup.com/arena/}|
-Wallpaper=https://www.codingcupmichoacan.org/edicion2024/fondopantalla.png
+Wallpaper=https://www.codingcupmichoacan.org/edicion2026/fondopantalla2026.png
 WallpaperSha256=fcbfc8e99eb9a9beab67946d12bf6f334b4481c21a631c6f9328f08098e0db6a
 
 [Contest]
@@ -26,13 +26,11 @@ AllowedWebsites=omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudfla
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
 Bookmarks={Contest^https://www.omegaup.com/arena/}|
-Wallpaper=https://www.codingcupmichoacan.org/edicion2024/fondopantalla.png
+Wallpaper=https://www.codingcupmichoacan.org/edicion2026/fondopantalla2026.png
 WallpaperSha256=fcbfc8e99eb9a9beab67946d12bf6f334b4481c21a631c6f9328f08098e0db6a
 
 [Event-Times]
-2024-05-11T07:00:00 2024-05-11T20:00:00
-2024-05-18T07:00:00 2024-05-18T20:00:00
+2026-05-04T00:00:00 2026-05-05T23:59:59
 
 [Contest-Times]
-2024-05-18T07:00:00 2024-05-18T20:00:00
-
+2026-05-04T00:00:00 2026-05-05T23:59:59
