@@ -18,14 +18,16 @@ AllowedWebsites=all
 AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
 Bookmarks={Contest^https://www.omegaup.com/arena/}|
-Wallpaper=https://www.codingcupmichoacan.org/edicion2026/fondopantalla2026.png
+Wallpaper=wallpaper.png
+WallpaperSha256=4135728b05dd3171467bb9ca2cc98f427ba1ccdfab007b83a082f8fc18a606b6
 
 [Contest]
 AllowedWebsites=omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
 Bookmarks={Contest^https://www.omegaup.com/arena/}|
-Wallpaper=https://www.codingcupmichoacan.org/edicion2026/fondopantalla2026.png
+Wallpaper=wallpaper.png
+WallpaperSha256=4135728b05dd3171467bb9ca2cc98f427ba1ccdfab007b83a082f8fc18a606b6
 
 [Event-Times]
 2026-05-04T00:00:00 2026-05-05T23:59:59
