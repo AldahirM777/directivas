@@ -1,0 +1,38 @@
+[Global]
+TimeZone=America/Mexico_City
+ConfigExpirationTime=never
+AvailableKeyboardLayouts=latam|us|es|
+DefaultKeyboardLayout=cn
+EventConfig=true
+ContestConfig=true
+
+[Always]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
+Bookmarks={ICOMI^https://www.icomi.com.mx/}|
+Wallpaper=default
+
+[Event]
+AllowedWebsites=all
+AllowUsbStorage=true
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
+Bookmarks={Contest^https://www.omegaup.com/arena/}|
+Wallpaper=https://www.codingcupmichoacan.org/edicion2024/fondopantalla.png
+WallpaperSha256=fcbfc8e99eb9a9beab67946d12bf6f334b4481c21a631c6f9328f08098e0db6a
+
+[Contest]
+AllowedWebsites=omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com
+AllowUsbStorage=false
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
+Bookmarks={Contest^https://www.omegaup.com/arena/}|
+Wallpaper=https://www.codingcupmichoacan.org/edicion2024/fondopantalla.png
+WallpaperSha256=fcbfc8e99eb9a9beab67946d12bf6f334b4481c21a631c6f9328f08098e0db6a
+
+[Event-Times]
+2024-05-11T07:00:00 2024-05-11T20:00:00
+2024-05-18T07:00:00 2024-05-18T20:00:00
+
+[Contest-Times]
+2024-05-18T07:00:00 2024-05-18T20:00:00
+
