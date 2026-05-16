@@ -19,22 +19,18 @@ AllowUsbStorage=true
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
 Bookmarks={Contest^https://www.omegaup.com/arena/}|
 Wallpaper=https://www.codingcupmichoacan.org/edicion2026/fondopantalla2026.png
-WallpaperSha256=4135728B05DD3171467BB9CA2CC98F427BA1CCDFAB007B83A082F8FC18A606B6
+WallpaperSha256=fcbfc8e99eb9a9beab67946d12bf6f334b4481c21a631c6f9328f08098e0db6a
 
 [Contest]
 AllowedWebsites=omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com
 AllowUsbStorage=false
 AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
-Bookmarks={Contest^https://www.omegaup.com/arena/}|
+Bookmarks={Contest^https://www.omegaup.com/arena/}|{Coding Cup Michoacán^https://www.codingcupmichoacan.org/}|
 Wallpaper=https://www.codingcupmichoacan.org/edicion2026/fondopantalla2026.png
-WallpaperSha256=4135728B05DD3171467BB9CA2CC98F427BA1CCDFAB007B83A082F8FC18A606B6
+WallpaperSha256=fcbfc8e99eb9a9beab67946d12bf6f334b4481c21a631c6f9328f08098e0db6a
 
 [Event-Times]
-2026-05-15T17:40:00 2026-05-15T18:40:00
+2026-05-15T18:20:00 2026-05-15T18:35:00
 
 [Contest-Times]
-2026-05-15T17:42:00 2026-05-15T17:44:00
-2026-05-15T17:54:00 2026-05-15T17:56:00
-2026-05-15T18:06:00 2026-05-15T18:08:00
-2026-05-15T18:18:00 2026-05-15T18:20:00
-2026-05-15T18:30:00 2026-05-15T18:32:00
+2026-05-15T18:25:00 2026-05-15T18:30:00
