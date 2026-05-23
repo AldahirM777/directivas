@@ -9,14 +9,14 @@ ContestConfig=true
 [Always]
 AllowedWebsites=all
 AllowUsbStorage=true
-AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/intellij|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/pycharm|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
 Bookmarks={ICOMI^https://www.icomi.com.mx/}|
 Wallpaper=default
 
 [Event]
 AllowedWebsites=all
 AllowUsbStorage=true
-AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|langs/java|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-python|programming/vsc-java|
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/intellij|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/pycharm|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
 Bookmarks={Contest^https://www.omegaup.com/arena/}|
 Wallpaper=https://www.codingcupmichoacan.org/edicion2026/fondopantalla2026.png
 WallpaperSha256=4135728B05DD3171467BB9CA2CC98F427BA1CCDFAB007B83A082F8FC18A606B6
@@ -24,7 +24,7 @@ WallpaperSha256=4135728B05DD3171467BB9CA2CC98F427BA1CCDFAB007B83A082F8FC18A606B6
 [Contest]
 AllowedWebsites=omegaup.com|maxcdn.bootstrapcdn.com|codingcupmichoacan.org|www.codingcupmichoacan.org|samhebert.net|cdnjs.cloudflare.com|boca.icpcmexico.org|score.icpcmexico.org|animeitor.icpcmexico.org|ideone.com
 AllowUsbStorage=false
-AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/python3|langs/ruby|langs/java|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|programming/vsc-python|programming/vsc-java|
+AvailableSoftware=debuggers/ddd|debuggers/gdb|debuggers/valgrind|debuggers/visualvm|internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/python3|langs/ruby|tools/byobu|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/intellij|programming/joe|programming/kate|programming/kdevelop|programming/neovim|programming/pycharm|programming/sublime|programming/gvim|programming/vim|programming/vscode|programming/vsc-cpp-compile-run|programming/vsc-cpptools|
 Bookmarks={Contest^https://www.omegaup.com/arena/}|{CodingCup^https://codingcupmichoacan.org/}|{BOCA^https://boca.icpcmexico.org/}|{Scoreboard^https://score.icpcmexico.org/}|{Ideone^https://ideone.com/}|
 Wallpaper=https://www.codingcupmichoacan.org/edicion2026/fondopantalla2026.png
 WallpaperSha256=4135728B05DD3171467BB9CA2CC98F427BA1CCDFAB007B83A082F8FC18A606B6
